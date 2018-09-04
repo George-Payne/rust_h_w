@@ -1,0 +1,9 @@
+[package]
+name = "christmas"
+version = "0.1.0"
+authors = ["george"]
+
+[dependencies]
+rand = "0.3.12"
+ordinal = "0.1.0"
+english-numbers = "0.3.3"

@@ -1,0 +1,6 @@
+[package]
+name = "spawn_of_khan"
+version = "0.1.0"
+authors = ["george"]
+
+[dependencies]

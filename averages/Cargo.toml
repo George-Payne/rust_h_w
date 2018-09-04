@@ -1,0 +1,6 @@
+[package]
+name = "averages"
+version = "0.1.0"
+authors = ["george"]
+
+[dependencies]
