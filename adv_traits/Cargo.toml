@@ -1,0 +1,6 @@
+[package]
+name = "adv_traits"
+version = "0.1.0"
+authors = ["George Payne <georgepayne@hotmail.com>"]
+
+[dependencies]
